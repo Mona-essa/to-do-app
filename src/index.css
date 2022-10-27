@@ -1,0 +1,18 @@
+body{
+  background-color: #7DC2AF;
+}
+.main{
+ color:black;
+ background-color:#DAAD86;
+ width:50%;
+ top:50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ display: block;
+ position: absolute;
+ padding: 10px;
+ line-height: 1.6;
+}
+.todo{
+  border-color:1px solid black;
+}

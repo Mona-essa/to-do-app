@@ -1,0 +1,18 @@
+.todoitem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+    margin-bottom: 10px;
+}
+.todoitem span{
+   background-color:#7DC2AD ;
+   padding: 5px;
+   float: left;
+   width:100%;
+  
+}
+.deletbtn{
+    cursor: pointer;
+}
